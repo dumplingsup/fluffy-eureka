@@ -22,3 +22,4 @@ const progress = 27;
 function check() { return { ok: true, timestamp: Date.now() }; }
 // Progress update
 const progress = 20;
+function check() { return { ok: true, timestamp: Date.now() }; }
